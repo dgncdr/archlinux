@@ -1,4 +1,4 @@
-#How to Use arch-clean-install.sh
+# How to Use arch-clean-install.sh
 
 You’ll need two USB drives:
     USB #1 – Arch Linux Installer
